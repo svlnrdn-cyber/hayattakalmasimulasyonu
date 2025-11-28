@@ -1,7 +1,8 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
-#include <ctype.h>
+<pre> 
+#include &lt;stdio.h&gt;
+#include &lt;stdlib.h&gt;
+#include &lt;time.h&gt;
+#include &lt;ctype.h&gt;
 
 // --- Yeni ve Mevcut Durum Değişkenleri ---
 int saglik = 100;      // Oyuncunun canı (0-100)
@@ -306,3 +307,4 @@ void şifreli_ilerleme() {
         }
     } while (!engel_asildi);
 }
+</pre>
